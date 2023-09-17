@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,githubactions,bash,py,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,py,django,githubactions,aws,docker,)](https://skillicons.dev)
 Linux
 Python
 Django
