@@ -1,6 +1,6 @@
 ![github-header-image (1)](https://github.com/L7G9/l7g9/assets/18046238/50eca9a9-b0e3-4ada-b545-6e1bf56770e5)
 ## About Me
-By day I'm a mild mannered library assistant working towards a career change. By night I'm a Devops and Software Developement enthusiast who likes...
+By day I'm a mild mannered library assistant working towards a career change. By night I'm a Devops and Software Engineering enthusiast who likes...
 - all the tools a developer can use with Python
 - discovering all the features of GitHub
 - leaving code tidier than he found it
