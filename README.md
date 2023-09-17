@@ -6,16 +6,16 @@ By day I'm a mild mannered library assistant working towards a career change. By
 - leaving code tidier than he found it
 
 ## Potfolio Projects
-###[21 Bust](https://github.com/L7G9/card_games)
+### [21 Bust](https://github.com/L7G9/card_games)
 Command-line card game written in Pythons with a GitHub Actions CICD pipeline delivereing it to DockerHub.  
 
-###[WebApp #1](https://github.com/L7G9/stateless_webapp_01) [WebApp #2](https://github.com/L7G9/stateless_webapp_02) & [WebApp #3](https://github.com/L7G9/stateless_webapp_03)
+### [WebApp #1](https://github.com/L7G9/stateless_webapp_01), [WebApp #2](https://github.com/L7G9/stateless_webapp_02) & [WebApp #3](https://github.com/L7G9/stateless_webapp_03)
 Examples of how a simple WebApp can be deployed on AWS using Terraform.  
 
-###[TPlot](https://github.com/L7G9/tplot)
+### [TPlot](https://github.com/L7G9/tplot)
 Django WebApp with a Postgres database including a GitHub Actions CICD pipeline deploying it to AWS using Elastic Beanstalk.  
 
-###[VPC Tree](https://github.com/L7G9/vpc_tree)
+### [VPC Tree](https://github.com/L7G9/vpc_tree)
 Command-line app to display the resources in a AWS Virtual Private Cloud in tree structure.
 
 ## Languages & Tools
