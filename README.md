@@ -1,11 +1,22 @@
 ![github-header-image (1)](https://github.com/L7G9/l7g9/assets/18046238/50eca9a9-b0e3-4ada-b545-6e1bf56770e5)
 ## About Me
-By day I'm a mild mannered library assistant. But night I'm a Devops and Software Developement enthusiast who likes...
-- discoving all the tools a develpoer can use with Python
-- all the features of GitHub
+By day I'm a mild mannered library assistant working towards a career change. By night I'm a Devops and Software Developement enthusiast who likes...
+- all the tools a develpoer can use with Python
+- discovering all the features of GitHub
 - leaving code tidier than he found it
 
-I'm currently looking to change careers, my projects feature Python, AWS and CICD.  
+## Potfolio Projects
+###[21 Bust](https://github.com/L7G9/card_games)
+Command-line card game written in Pythons with a GitHub Actions CICD pipeline delivereing it to DockerHub.  
+
+###[WebApp #1](https://github.com/L7G9/stateless_webapp_01) [WebApp #2](https://github.com/L7G9/stateless_webapp_02) & [WebApp #3](https://github.com/L7G9/stateless_webapp_03)
+Examples of how a simple WebApp can be deployed on AWS using Terraform.  
+
+###[TPlot](https://github.com/L7G9/tplot)
+Django WebApp with a Postgres database including a GitHub Actions CICD pipeline deploying it to AWS using Elastic Beanstalk.  
+
+###[VPC Tree](https://github.com/L7G9/vpc_tree)
+Command-line app to display the resources in a AWS Virtual Private Cloud in tree structure.
 
 ## Languages & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -17,19 +28,3 @@ I'm currently looking to change careers, my projects feature Python, AWS and CIC
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-
-<!--
-**L7G9/l7g9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
