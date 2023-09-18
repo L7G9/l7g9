@@ -7,7 +7,7 @@ By day I'm a mild mannered library assistant working towards a career change. By
 
 ## Portfolio Projects
 ### [21 Bust](https://github.com/L7G9/card_games)
-Command-line card game written in Python including a GitHub Actions CICD pipeline delivereing it to DockerHub.  
+Command-line card game written in Python including a GitHub Actions CICD pipeline delivering it to DockerHub.  
 
 ### [WebApp #1](https://github.com/L7G9/stateless_webapp_01), [WebApp #2](https://github.com/L7G9/stateless_webapp_02) & [WebApp #3](https://github.com/L7G9/stateless_webapp_03)
 Examples of how a simple web app can be deployed on AWS using Terraform.  
