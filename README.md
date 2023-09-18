@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/L7G9/l7g9/assets/18046238/50eca9a9-b0e3-4ada-b545-6e1bf56770e5)
+![github-header-image](https://github.com/L7G9/l7g9/assets/18046238/6c1e300c-bf84-4595-81f2-f725121d1ec0)
+
 ## About Me
 By day I'm a mild mannered library assistant working towards a career change. By night I'm a DevOps and Software Engineering enthusiast who likes...
 - all the tools a developer can use with Python
